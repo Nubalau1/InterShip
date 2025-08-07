@@ -7,7 +7,7 @@ This program reads a list of words from an input file and groups words that are 
 - Python 3.7 or higher
 - No external libraries required (uses only Python standard library)
 
-## How to Clone and Run
+## How to Run the Program
 
 1. **Clone the repository**
 
@@ -20,3 +20,7 @@ cd InterShip
 ```bash
 python main.py
 ```
+
+3. Check the output
+
+The result will be written to output.txt, with each line containing a group of anagrams.
